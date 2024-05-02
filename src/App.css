@@ -1,12 +1,13 @@
 .mainDiv{
+  color:white;
+  background-color: rgb(59, 59, 59);
   text-align: center;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-h6{
-  font-size: 50px;
-}
 
 button{
+  margin-top: 50px;
   font-size: 50px;
   padding-left: 15px;
   padding-right: 15px;
@@ -18,5 +19,14 @@ button{
 
 button:hover{
   box-shadow: 5px 3px 3px;
+}
 
+.tMovie{
+  font-size: 60px;
+}
+
+.Movie{
+  font-size: 20px;
+  margin-left: 300px;
+  margin-right: 300px;
 }
