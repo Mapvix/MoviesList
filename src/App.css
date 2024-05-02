@@ -1,0 +1,22 @@
+.mainDiv{
+  text-align: center;
+}
+
+h6{
+  font-size: 50px;
+}
+
+button{
+  font-size: 50px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 20px;
+
+  box-shadow: 0;
+  transition: box-shadow .25s;
+}
+
+button:hover{
+  box-shadow: 5px 3px 3px;
+
+}
